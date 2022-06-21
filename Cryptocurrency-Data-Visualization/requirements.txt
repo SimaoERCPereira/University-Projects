@@ -1,0 +1,13 @@
+pandas~=1.4.2
+DateTime~=4.4
+numpy~=1.22.3
+dash~=2.4.1
+plotly~=5.8.0
+streamlit~=1.9.0
+pydeck~=0.7.1
+altair~=4.2.0
+stocker~=0.1.11
+yfinance~=0.1.70
+pandas_datareader
+finta
+
